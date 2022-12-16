@@ -1,1 +1,1 @@
-# cs130_final-
+## This repository consists of code for synthetic controls. 
